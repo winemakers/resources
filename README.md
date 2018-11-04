@@ -3,7 +3,8 @@
 Aqui recogemos la documentacion de los talleres del Wine Makers Lab. 
 
 ## Taller de Vinificacion de Tintos: 
-9 Sesiones en total
+Localizaciones: Fab Lab Barcelona, Green Fab Lab @ Valldaura  
+Participantes: 12 en total
 
 ### Sesion 1: Presentacion del curso  
 Introduccion al mundo del vino y el Fab Lab  
@@ -56,4 +57,18 @@ Proteccion del vino (Sulfitos)
 Aprender a catar el vino  
 Cata de variedades  
 Cata colectiva  
+
+## Profesores:  
+- Miguel Figini  
+- Damia del Castillo  
+- Tomas Diez  
+- Santiago Fuentemilla  
+- Guillem Camprodon  
+- Victor Barberan  
+- Esteban Gimenez  
+- Mikel Llobera  
+
+Equipo de produccion y comunicacion:  
+- Myriam Harrag  
+- Matias Verderau
 
