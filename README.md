@@ -10,14 +10,16 @@ Introduccion al mundo del vino y el Fab Lab
 Por Miguel Figini y el equipo del Fab Lab Barcelona  
 
 ### Sesion 2: Vendimia  
-Vendimia en el Priorat  
-Seleccion y cata de uvas  
-Almacenaje  
+* Vendimia en el Priorat  
+* Seleccion y cata de uvas  
+* Almacenaje  
+* Fotos (by Fab Lab Barcelona): https://drive.google.com/drive/u/0/folders/1magV_lj1a7FzMJE7Y5SC96jzStmdZgUZ  
 
 ### Sesion 3: Vinificacion en tinto  
 * Fermentaciones  
 * Seguimiento y pilotaje de fermentaciones  
 * Presentacion Damia del Castillo: https://github.com/winemakers/resources/blob/master/presentaciones/VinificacionTinto-D.delCastillo-201018.pdf  
+* Fotos (by Fab Lab Barcelona): https://drive.google.com/drive/u/0/folders/12M_96JlbpuuSfW-YACzhpBjPovcTpY-g   
 
 ### Sesion 4: Introduccion a la Fabricacion Digital  
 * Revoluciones digitales  
