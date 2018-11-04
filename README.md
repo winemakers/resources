@@ -24,12 +24,12 @@ Por Miguel Figini y el equipo del Fab Lab Barcelona
 
 ### Sesion 4: Introduccion a la Fabricacion Digital  
 * Revoluciones digitales  
-..* Fab Lab Barcelona y Fab City: https://docs.google.com/presentation/d/12A0cAvhsC6fQIya1SzNqaHQ7aERCot3x-0hIWhRGSt8/edit#slide=id.p  
-..* Principios de la Fabricacion Digital: http://ng.cba.mit.edu/show/script/17.09.fab.show.html  
+  * Fab Lab Barcelona y Fab City: https://docs.google.com/presentation/d/12A0cAvhsC6fQIya1SzNqaHQ7aERCot3x-0hIWhRGSt8/edit#slide=id.p  
+  * Principios de la Fabricacion Digital: http://ng.cba.mit.edu/show/script/17.09.fab.show.html  
 
 * Introduccion a CAD (Computer Aided Design)  
-..* Rhino: https://www.rhino3d.com/  
-..* CAD: http://academy.cba.mit.edu/classes/computer_design/index.html  
+  * Rhino: https://www.rhino3d.com/  
+  * CAD: http://academy.cba.mit.edu/classes/computer_design/index.html  
 
 * Demos Fabricacion Digital (Impresion 3D, Laser, CNC Machinning)   
 * Programas educativos en Fabricacion Digital: http://www.academany.org/  
