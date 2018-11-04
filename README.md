@@ -15,8 +15,9 @@ Seleccion y cata de uvas
 Almacenaje  
 
 ### Sesion 3: Vinificacion en tinto  
-Fermentaciones  
-Seguimiento y pilotaje de fermentaciones  
+* Fermentaciones  
+* Seguimiento y pilotaje de fermentaciones  
+* Presentacion Damia del Castillo: https://github.com/winemakers/resources/blob/master/presentaciones/VinificacionTinto-D.delCastillo-201018.pdf  
 
 ### Sesion 4: Introduccion a la Fabricacion Digital  
 * Revoluciones digitales  
