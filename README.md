@@ -56,7 +56,20 @@ Proteccion del vino (Sulfitos)
 ### Sesion 9: Analisis sensorial  
 Aprender a catar el vino  
 Cata de variedades  
-Cata colectiva  
+Cata colectiva 
+
+## Participantes:
+Maria Valles  
+Kyran Senen  
+Josep Sabaté  
+Josep Vidal  
+Marc Greco  
+Jonathan Minchin  
+Emma Benet  
+Martin Guttmann  
+Ubaldo Huerta  
+Lucas Cappelli  
+Andrea Tivadar  
 
 ## Profesores:  
 - Miguel Figini  
