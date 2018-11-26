@@ -36,7 +36,8 @@ Por Miguel Figini y el equipo del Fab Lab Barcelona
 
 ### Sesion 5: Hackea tu fermentador  
 Tutores: Guillem Camprodon, Victor Barberan, Esteban Gimenez  
-Presentacion: https://github.com/winemakers/resources/blob/master/presentaciones/IntroArduinoSensors-GCamprodon-031018.pdf  Introduccion a la computacion fisica  
+Presentacion: https://github.com/winemakers/resources/blob/master/presentaciones/IntroArduinoSensors-GCamprodon-031018.pdf   
+Introduccion a la computacion fisica  
 Introduccion al mundo digital  
 Tutorial de Arduino  
 Prototipos de sensores para fermentadores  
