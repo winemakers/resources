@@ -35,7 +35,8 @@ Por Miguel Figini y el equipo del Fab Lab Barcelona
 * Programas educativos en Fabricacion Digital: http://www.academany.org/  
 
 ### Sesion 5: Hackea tu fermentador  
-Introduccion a la computacion fisica  
+Tutores: Guillem Camprodon, Victor Barberan, Esteban Gimenez  
+Presentacion: https://github.com/winemakers/resources/blob/master/presentaciones/IntroArduinoSensors-GCamprodon-031018.pdf  Introduccion a la computacion fisica  
 Introduccion al mundo digital  
 Tutorial de Arduino  
 Prototipos de sensores para fermentadores  
@@ -44,9 +45,17 @@ Prototipos de sensores para fermentadores
 Visualizacion de datos  
 Lectura de datos complejos  
 Conexion de datos a Internet  
+Plataformas utilizadas:  
+- Smart Citizen: http://www.smartcitizen.me
+- Google Spreadsheets: https://docs.google.com/spreadsheets  
+- Google Fusion Table: https://support.google.com/fusiontables/answer/2571232  
+Datos de los sensores utilizados:  
+- https://smartcitizen.me/kits/5027  
 
 ### Sesion 7: Estabilizacion  
-Estabilizacion y clarificacion del mosto  
+Tutor: Damia del Castillo  
+Presentacion: https://github.com/winemakers/resources/blob/master/presentaciones/Final%20de%20Fermentaciones.pdf
+Estabilizacion y clarificacion del mosto 
 Fundamentos fisico-quimicos  
 
 ### Sesion 8: El Embotellado  
